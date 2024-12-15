@@ -8,4 +8,4 @@ Some modification:
 4. Change `/` as divide opration to char &#x00F7;
 5. Add function to remove result with suffix `.0`
 
-![Modified Calculator](https://ibb.co.com/vvJ97WB)
+![Modified Calculator](https://i.ibb.co.com/R4C8xKS/Screenshot-2024-12-15-at-12-59-57-removebg-preview.png)
