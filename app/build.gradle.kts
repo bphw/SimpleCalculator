@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.bambang.simplecalculator"
+    namespace = "app.vercel.bambangp.simplecalculator"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.bambang.simplecalculator"
+        applicationId = "app.vercel.bambangp.simplecalculator"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
